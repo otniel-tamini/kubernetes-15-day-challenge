@@ -30,7 +30,7 @@ The goal: Learn and practice Kubernetes one concept per working day, and share t
 ## 🔗 Medium Articles
 
 All daily articles are published on my Medium profile:  
-👉 [medium.com/@your-username](https://medium.com/@otniel-tamini)
+👉 [medium.com/@otniel-tamini](https://medium.com/@otniel-tamini)
 
 Follow the hashtag **#KubernetesJourney** for updates!
 
@@ -49,6 +49,6 @@ Follow the hashtag **#KubernetesJourney** for updates!
 
 ## 🙌 Let’s Connect
 
-📬 [LinkedIn](https://linkedin.com/in/your-profile) — [GitHub](https://github.com/otniel-tamini)
+📬 [LinkedIn](https://linkedin.com/in/otniel-tamini) — [GitHub](https://github.com/otniel-tamini)
 
 Feel free to fork, star ⭐ or contribute if you're learning Kubernetes too!
